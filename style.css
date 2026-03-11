@@ -846,6 +846,10 @@ em {
     display: none;
   }
 
+  .hero-scroll {
+    display: none;
+  }
+
   .section {
     padding: 80px 0;
   }
