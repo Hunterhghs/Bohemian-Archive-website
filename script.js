@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Scroll animations
   const fadeEls = document.querySelectorAll(
-    '.section-label, .section-title, .manifesto-text, .topic-card, .dispatch-card, .about-text, .about-stats, .communities-label, .communities-list'
+    '.section-label, .section-title, .manifesto-text, .topic-card, .dispatch-card, .about-text, .about-stats, .communities-label, .communities-list, .collection-intro, .collection-card, .collection-opensea-link'
   );
 
   fadeEls.forEach(el => el.classList.add('fade-in'));
